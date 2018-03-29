@@ -36,7 +36,7 @@ to the Default attribute set, if your product has a deffirent attribute set
 that doesn't based on the Default attribute set, then you will have to add
 Customattribute to the product attribute set
 
-If you face any problem, please tell us.
+If you faced any problem, please tell us.
 
 Installation:
 
