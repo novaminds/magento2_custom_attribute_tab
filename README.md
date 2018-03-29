@@ -34,7 +34,7 @@ _module namespace directory must be NovaMinds.
 
 Installation:
 
-To install our extension just put it in app/code directory, 
+To install our extension just put it in app/code/NovaMinds directory, 
 cd to your magento2 root directory and run magento command: 
 php bin/magento setup:upgrade
 
