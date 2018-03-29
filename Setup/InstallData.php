@@ -31,7 +31,7 @@ class InstallData implements InstallDataInterface
                 'type' => 'text',
                 'backend' => '',
                 'frontend' => '',
-                'label' => 'Custom Tap',
+                'label' => 'Custom Tab',
                 'input' => 'textarea',
                 'class' => '',
                 'source' => '',

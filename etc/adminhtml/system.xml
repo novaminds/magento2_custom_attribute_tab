@@ -2,16 +2,16 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
     <system>
         <tab id="customtap" translate="label" sortOrder="1000">
-            <label>Custom Product Tap</label>
+            <label>Custom Product Tab</label>
         </tab>
         <section id="customtap" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
-            <label>Custom Tap</label>
+            <label>Custom Tab</label>
             <tab>customtap</tab>
             <resource>NovaMinds_Customattribute::customattribute</resource>
             <group id="custap" translate="label" type="text" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
-                <label>Custom Tap configuration</label>
+                <label>Custom Tab configuration</label>
                 <field id="cutomTapLabel" translate="label comment" type="text" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
-                    <label>tap label</label>
+                    <label>tab label</label>
                     <comment>the store view label</comment>
                 </field>
             </group>
