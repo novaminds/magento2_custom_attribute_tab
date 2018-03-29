@@ -5,7 +5,7 @@ That allow you to add your own tap in product page next to Reviews, Details and 
 
 Features:
 
-If You have in a certsin situation an important product attribute,
+If You have in a certain situation an important product attribute,
 or whatever attribute that a product specialized with and you would rather to put it (as a tap)next to Reviews,
 so the customer would see it directly.
 
