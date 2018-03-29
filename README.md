@@ -29,8 +29,14 @@ a new product or editing a product.
 
 
 Note:
-_if you don't set a value for the tap it doesn't show up in product page (frontend).
-_module namespace directory must be NovaMinds.
+If you don't set a value for the tap it doesn't show up in product page (frontend).
+Module namespace directory must be NovaMinds.
+Our extention add the Customattribute(custom attribute)
+to the Default attribute set, if your product has a deffirent attribute set 
+that doesn't based on the Default attribute set, then you will have to add
+Customattribute to the product attribute set
+
+If you face any problem, please tell us.
 
 Installation:
 
