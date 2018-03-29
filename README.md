@@ -1,6 +1,6 @@
 Synopsis:
 
-Our Likes Extension for Magento2 is simple and very useful.
+Our Custom Tap Extension for Magento2 is simple and very useful.
 That allow you to add your own tap in product page next to Reviews, Details and More Informations. 
 
 Features:
@@ -10,14 +10,14 @@ or whatever attribute that a product specialized with and you would rather to pu
 so the customer would see it directly.
 
 
-![alt text](images/custap.png)
+www.nmcit.com/magento2-custom-tab-plugin/
 
 
 You can set the store view label for the tap.
 Just go to Stores->Configuration->CUSTOM PRODUCT TAP->Custom Tap
 
 
-![alt text](images/custapconfig.png)
+www.nmcit.com/magento2-custom-tab-plugin/
 
 
 To put the value of that custom tap(attribute).
@@ -25,7 +25,7 @@ You will find it in Attributes group when you are adding
 a new product or editing a product.
 
 
-![alt text](images/setTapValue.png)
+www.nmcit.com/magento2-custom-tab-plugin/
 
 
 Note:
