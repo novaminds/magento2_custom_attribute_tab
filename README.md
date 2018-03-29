@@ -29,8 +29,8 @@ a new product or editing a product.
 
 
 Note:
-if you don't set a value for the tap it doesn't show up in product page (frontend).
-
+_if you don't set a value for the tap it doesn't show up in product page (frontend).
+_module namespace directory must be NovaMinds.
 
 Installation:
 
