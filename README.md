@@ -9,23 +9,23 @@ If You have in a certain situation an important product attribute,
 or whatever attribute that a product specialized with and you would rather to put it (as a tab)next to Reviews,
 so the customer would see it directly.
 
+![alt text](http://www.nmcit.com/wp-content/uploads/2018/03/tab.png)
 
-www.nmcit.com/magento2-custom-tab-plugin/
 
 
 You can set the store view label for the tab.
 Just go to Stores->Configuration->CUSTOM PRODUCT TAB->Custom Tab
 
+![alt text](http://www.nmcit.com/wp-content/uploads/2018/03/tabConfig.png/)
 
-www.nmcit.com/magento2-custom-tab-plugin/
 
 
 To put the value of that custom tab(attribute).
 You will find it in Attributes group when you are adding 
 a new product or editing a product.
 
+![alt text](http://www.nmcit.com/wp-content/uploads/2018/03/setTapValue.png)
 
-www.nmcit.com/magento2-custom-tab-plugin/
 
 
 Note:
