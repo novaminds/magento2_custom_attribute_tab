@@ -16,7 +16,7 @@ so the customer would see it directly.
 You can set the store view label for the tab.
 Just go to Stores->Configuration->CUSTOM PRODUCT TAB->Custom Tab
 
-![alt text](http://www.nmcit.com/wp-content/uploads/2018/03/tabConfig.png/)
+![alt text](http://www.nmcit.com/wp-content/uploads/2018/03/tabConfig.png)
 
 
 
